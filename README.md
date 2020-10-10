@@ -1,7 +1,5 @@
 # go_gin_tutorial
 
-How to use, please check [https://nunubuff.com/golang-gin](https://nunubuff.com/golang-gin)
+How to use, please check [https://nunubuff.com/blog/golang-gin-tutorial/](https://nunubuff.com/blog/golang-gin-tutorial/)
 
 I used [free bootstrap template](https://startbootstrap.com/themes/new-age/) for HTML assets. Thanks!
-
-[https://nunubuff.com/blog/golang-gin-tutorial/](https://nunubuff.com/blog/golang-gin-tutorial/)
